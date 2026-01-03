@@ -28,7 +28,7 @@ class _ServicesSplitSectionState extends State<ServicesSplitSection> {
         description:
             "Build secure, high-performance custom web applications tailored to your business processes.",
         icon: Icons.web,
-        image: './animation/web_development.json',
+        image: 'assets/animation/web_development.json',
       ),
       ServiceItem(
         title: "Automation & Integration",
@@ -36,7 +36,7 @@ class _ServicesSplitSectionState extends State<ServicesSplitSection> {
         description:
             "Design and develop intuitive mobile applications that deliver seamless user experiences.",
         icon: Icons.phone_android,
-        image: './animation/automation.json',
+        image: 'assets/animation/automation.json',
       ),
       ServiceItem(
         title: "ERP Solutions & Customization",
@@ -44,7 +44,7 @@ class _ServicesSplitSectionState extends State<ServicesSplitSection> {
         description:
             "Implement enterprise ERP systems to streamline operations, finance, and resource management.\nCustomize ERP modules and workflows to perfectly align with your unique business requirements.",
         icon: Icons.business_center_outlined,
-        image: './animation/digital_animation.json',
+        image: 'assets/animation/digital_animation.json',
       ),
 
       ServiceItem(
@@ -53,7 +53,7 @@ class _ServicesSplitSectionState extends State<ServicesSplitSection> {
         description:
             "Design robust cloud architectures that ensure scalability, security, and cost efficiency.",
         icon: Icons.cloud_outlined,
-        image: './animation/cloud_transformation.json',
+        image: 'assets/animation/cloud_transformation.json',
       ),
     ];
 
