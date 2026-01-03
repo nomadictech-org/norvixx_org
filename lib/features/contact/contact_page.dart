@@ -136,7 +136,7 @@ class _ContactFormState extends State<ContactForm>
       height: 320,
       width: double.infinity,
       child: Lottie.asset(
-        './animation/done.json',
+        'assets/animation/done.json',
         controller: _lottieController,
         fit: BoxFit.contain,
         repeat: false,
